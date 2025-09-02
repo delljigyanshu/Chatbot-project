@@ -30,7 +30,7 @@ chatbot-project/ <br/>
 
 ## 🚀 Getting Started  
 
-1. **Clone the repository**  
+1. Clone the repository  
    ```bash
    git clone https://github.com/delljigyanshu/Chatbot-project.git
    cd Chatbot-project
